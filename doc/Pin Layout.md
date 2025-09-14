@@ -1,4 +1,4 @@
-#CyroTime Pins
+# CyroTime Pins
 
 This is the list of used pins .
 
@@ -6,7 +6,7 @@ This is the list of used pins .
 
 ## Physical Pins Used by devices
 
-###Dot-Matrix display pins
+### Dot-Matrix display pins
 
 ```
 * DATA_PIN 23
