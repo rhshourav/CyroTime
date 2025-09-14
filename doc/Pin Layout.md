@@ -24,4 +24,10 @@ VCC Pin to 5 Volt. And GND pin to Ground .
 ```
 LDR & IR Input has been grounded via 10k Ohm Resistor.
 
+### Power Sensing Pins
+```
+* C_IN ---> 16 "Charger IN"
+* BAT_CHARGE ---> 35 "Battery voltage check"
+* RESET_BTN --->15
+```
 
