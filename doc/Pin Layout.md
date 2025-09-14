@@ -11,6 +11,7 @@ This is the list of used pins .
 ```
 * DATA_PIN 23
 * CLK_PIN 18
+* CS_PIN 5
 * GND TO GND
 * VCC TO VCC
 
