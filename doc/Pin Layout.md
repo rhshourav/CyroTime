@@ -1,24 +1,18 @@
-\#CyroTime Pins
+#CyroTime Pins
 
 This is the list of used pins .
 
 
 
-\##Physical Pins Used by devices
+## Physical Pins Used by devices
 
-\###Dot-Matrix display pins
+###Dot-Matrix display pins
 
 ```
-
-&nbsp;	\* DATA\_PIN 23
-
-&nbsp;	\* CLK\_PIN 18
-
-&nbsp;	\* GND TO GND
-
-&nbsp;	\* VCC TO VCC
+* DATA_PIN 23
+* CLK_PIN 18
+* GND TO GND
+* VCC TO VCC
 
 ```	
-
-
 
